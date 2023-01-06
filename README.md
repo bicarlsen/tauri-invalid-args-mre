@@ -1,7 +1,4 @@
-# Tauri + Yew
+# Tauri Issue #5993 MRE
+Demonstrates an `invalid args` error recieved when passing an `enum` with an `Option` value as an argument to `invoke`.
 
-This template should help get you started developing with Tauri and Yew.
-
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+This is related to Issue [#5993](https://github.com/tauri-apps/tauri/issues/5993).
